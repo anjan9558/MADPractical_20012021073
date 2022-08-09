@@ -1,5 +1,4 @@
 import kotlin.reflect.typeOf
-
 fun main()
 {
     var x:Int = 100
